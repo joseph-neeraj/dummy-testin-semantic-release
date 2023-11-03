@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/joseph-neeraj/dummy-testin-semantic-release/compare/v1.0.0...v1.0.1) (2023-11-03)
+
+
+### Bug Fixes
+
+* **testing:** bug fix ([1c83e51](https://github.com/joseph-neeraj/dummy-testin-semantic-release/commit/1c83e5181d07b6a276171a8bbfd52fca7c15a96b))
+
 # 1.0.0 (2023-11-03)
 
 
